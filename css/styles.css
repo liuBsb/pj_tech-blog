@@ -1,2 +1,21 @@
 @charset "utf-8";
 
+*{}
+/* 2 - add css to:
+    2.1 - area-cabecalho 
+    2.2 - area-principal
+    2.2.1 - postagens
+    2.4.4 - lateral
+    2.3 - area-rodape
+
+ */
+#area-cabecalho{}
+/* fim area-cabecalho */
+#area-principal{}
+
+#area-principal #area-postagens{}
+/* fim area-postagnes */
+#area-principal #area-lateral{}
+/* fim area-lateral */
+#area-principal #area-rodape{}
+/* fim area principal */
